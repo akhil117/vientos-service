@@ -1,5 +1,7 @@
 # vientos-service
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/vientos/vientos-service.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/ehecame/vientos-service.svg?branch=master)](https://travis-ci.org/ehecame/vientos-service)
 [![codecov](https://codecov.io/gh/ehecame/vientos-service/branch/master/graph/badge.svg)](https://codecov.io/gh/ehecame/vientos-service)
 [![bitHound Code](https://www.bithound.io/github/ehecame/vientos-service/badges/code.svg)](https://www.bithound.io/github/ehecame/vientos-service)
